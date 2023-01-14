@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NIK4658&count_private=true&show_icons=true&hide_rank=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NIK4658&count_private=true&show_icons=true&hide_rank=true" />
 
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIK4658&layout=compact" />
 
